@@ -1,2 +1,3 @@
-# Solar-Irradiance-Analysis
-A Neural Network and a regression model that predicts internal temperatures of power converters using solar irradiance and climate data
+# Solar Irradiance Analysis
+
+This project showcases a dense Neural Network and a multivariate regression model being used to predict internal temperatures of power converters in solar farms using solar irradiance and climate data.
